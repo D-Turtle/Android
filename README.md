@@ -8,3 +8,4 @@
  - [ ] Better UX
  - [ ] Extensible
  - [ ] Better Architecture
+ - [ ] Respect Clients Dataconnections
