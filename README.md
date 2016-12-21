@@ -2,7 +2,7 @@
 
  ## Design Decisions
 
- - [ ] Dynamic Content
+ - [ ] Dynamic UI/Content
  - [ ] Social Login
  - [ ] Offline
  - [ ] Better UX
